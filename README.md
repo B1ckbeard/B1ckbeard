@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there, I'm Dmitry👋
+### Hexlet student
+
+<a href="https://codeclimate.com/github/B1ckbeard/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/77d4211ca2efc7bb91c6/maintainability" /></a>
 
 <!--
 **B1ckbeard/B1ckbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://codeclimate.com/github/B1ckbeard/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/77d4211ca2efc7bb91c6/maintainability" /></a>
