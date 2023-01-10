@@ -4,6 +4,7 @@
 <a href="https://codeclimate.com/github/B1ckbeard/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/77d4211ca2efc7bb91c6/maintainability" /></a>
 <a href="https://asciinema.org/a/lEZvcWcLS6or6mf1Y0iDlho91" target="_blank"><img src="https://asciinema.org/a/lEZvcWcLS6or6mf1Y0iDlho91.svg" /></a>
 <a href="https://asciinema.org/a/K9yq9GMGJsyzP5O8YWvYU8jOP" target="_blank"><img src="https://asciinema.org/a/K9yq9GMGJsyzP5O8YWvYU8jOP.svg" /></a>
+<a href="https://asciinema.org/a/h5CV3YHdwC5BmsbdwspRvm0OJ" target="_blank"><img src="https://asciinema.org/a/h5CV3YHdwC5BmsbdwspRvm0OJ.svg" /></a>
 
 <!--
 **B1ckbeard/B1ckbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
