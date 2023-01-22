@@ -5,6 +5,7 @@
 <a href="https://asciinema.org/a/lEZvcWcLS6or6mf1Y0iDlho91" target="_blank"><img src="https://asciinema.org/a/lEZvcWcLS6or6mf1Y0iDlho91.svg" /></a>
 <a href="https://asciinema.org/a/K9yq9GMGJsyzP5O8YWvYU8jOP" target="_blank"><img src="https://asciinema.org/a/K9yq9GMGJsyzP5O8YWvYU8jOP.svg" /></a>
 <a href="https://asciinema.org/a/h5CV3YHdwC5BmsbdwspRvm0OJ" target="_blank"><img src="https://asciinema.org/a/h5CV3YHdwC5BmsbdwspRvm0OJ.svg" /></a>
+<a href="https://asciinema.org/a/ZORENCF19y8MltEnquqUG7fua" target="_blank"><img src="https://asciinema.org/a/ZORENCF19y8MltEnquqUG7fua.svg" /></a>
 
 <!--
 **B1ckbeard/B1ckbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
