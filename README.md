@@ -7,6 +7,9 @@
 [![Actions Status](https://github.com/B1ckbeard/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/B1ckbeard/frontend-project-46/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c77c578388564fc31e04/maintainability)](https://codeclimate.com/github/B1ckbeard/frontend-project-46/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c77c578388564fc31e04/test_coverage)](https://codeclimate.com/github/B1ckbeard/frontend-project-46/test_coverage)
+#### [RSS-Reader](https://github.com/B1ckbeard/frontend-project-11)
+[![Actions Status](https://github.com/B1ckbeard/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/B1ckbeard/frontend-project-11/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7520a444d604d6931619/maintainability)](https://codeclimate.com/github/B1ckbeard/frontend-project-11/maintainability)
 
 
 <!--
