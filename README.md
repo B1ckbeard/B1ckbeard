@@ -1,5 +1,5 @@
 # Hi there, I'm Dmitry👋
-### Hexlet [student](https://ru.hexlet.io/u/user-3880654f6a69692a)
+### [Hexlet student](https://ru.hexlet.io/u/user-3880654f6a69692a)
 #### [Brain-games project](https://github.com/B1ckbeard/frontend-project-44)
 [![Actions Status](https://github.com/B1ckbeard/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/B1ckbeard/frontend-project-44/actions)
 <a href="https://codeclimate.com/github/B1ckbeard/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/77d4211ca2efc7bb91c6/maintainability" /></a>
