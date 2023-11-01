@@ -1,5 +1,5 @@
-Hi there, I'm Dmitry👋
-Junior frontend developer
+# Hi there, I'm Dmitry👋
+## Junior frontend developer
 ### [Hexlet student](https://ru.hexlet.io/u/user-3880654f6a69692a)
 #### [Brain-games project](https://github.com/B1ckbeard/frontend-project-44)
 [![Actions Status](https://github.com/B1ckbeard/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/B1ckbeard/frontend-project-44/actions)
