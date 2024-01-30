@@ -1,5 +1,5 @@
 # Hi there👋, I'm Dmitry
-### Frontend developer
+## Frontend developer
 ### [Hexlet student](https://ru.hexlet.io/u/user-3880654f6a69692a)
 
 ### Tech Stack 
