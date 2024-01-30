@@ -1,8 +1,8 @@
 # Hi there👋, I'm Dmitry
 ## Frontend developer
-### [Hexlet student](https://ru.hexlet.io/u/user-3880654f6a69692a)
+## [Hexlet student](https://ru.hexlet.io/u/user-3880654f6a69692a)
 
-### Tech Stack 
+## Tech Stack 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
